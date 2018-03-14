@@ -6,7 +6,6 @@ permalink:        pretty
 
 # Setup
 title:            'Angular Academy'
-tagline:          'A Jekyll theme'
 description:      'Your place to learn Angular Platform and best practices. Created by <a href="https://twitter.com/pietrucha/" target="_blank">@pietrucha</a>'
 baseurl:          http://blog.angular-academy.com/
 
