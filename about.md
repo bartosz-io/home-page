@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+title: About @pietrucha
+published: true
 ---
 
 <p class="message">
